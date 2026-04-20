@@ -71,7 +71,7 @@ The dashboard is designed to provide a clear understanding of weather patterns a
 ---
 
 ## 📷 Dashboard Preview
-
+https://github.com/Kirtika8800/weather-app-api-project/blob/main/Weather%20api.png
 
 ---
 
